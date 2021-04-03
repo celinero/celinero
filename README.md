@@ -1,5 +1,8 @@
 ### Hello World 👋
 
+- 🌱 I’m currently learning GIT
+- 📫 How to reach me: www.linkedin.com/in/celine-roure
+
 <!--
 **celinero/celinero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
