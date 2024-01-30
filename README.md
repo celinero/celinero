@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌱 I’m currently learning GIT
+- 🌱 I’m currently studying to become a front-end developper
 - 📫 How to reach me: www.linkedin.com/in/celine-roure
 
 <!--
